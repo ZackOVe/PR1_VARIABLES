@@ -8,6 +8,6 @@ y = 20
 print (x)
 print (y)
 
-![image](https://github.com/user-attachments/assets/dc4d85b7-d875-416a-a17a-72f71af6e6a7)
-![image](https://github.com/user-attachments/assets/a6c107d9-d9b5-4776-9f9b-c12ad875fced)
+![image](https://github.com/user-attachments/assets/a7912b9f-a08a-42ce-bb27-5efc7f99fd1f)
+![image](https://github.com/user-attachments/assets/c11992d6-ce69-4136-852d-f006b97b07e6)
 
